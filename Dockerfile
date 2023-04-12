@@ -1,6 +1,7 @@
 FROM node:lts AS builder
 
-COPY . /app
+COPY . /apphttps://github.com/Lewis-Liu/magic-copy/blob/main/Dockerfile
+
 
 WORKDIR /app
 
